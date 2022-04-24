@@ -33,5 +33,3 @@ MIT
    [express]: <http://expressjs.com>
    [ReactJS]: <https://ru.reactjs.org>
    [Gulp]: <http://gulpjs.com>
-
- /
